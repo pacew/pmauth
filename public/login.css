@@ -1,0 +1,25 @@
+body, input, button, select, textarea {
+    color: white;
+    background: black;
+}
+
+a {
+    color: #99f;
+}
+
+a:visited {
+    color: #949;
+}
+
+div.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.show {
+    display: unset !important;
+}
+
+h1 {
+    text-align: center;
+}
